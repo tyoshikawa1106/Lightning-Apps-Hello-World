@@ -1,0 +1,4 @@
+<aura:component implements="force:appHostable">
+    <h1>Force.com Aura Hello World!!</h1>
+    <p>- First Aura Apps -</p>
+</aura:component>
